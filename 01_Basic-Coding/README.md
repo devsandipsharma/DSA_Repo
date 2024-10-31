@@ -24,6 +24,10 @@ Before starting, here are some resources to understand the core concepts require
 - **Conditional Statements**
   - [Conditional Statements](https://www.loom.com/share/0fef2906d978438b808891161d137166?sid=ac0943ed-eef2-4406-9013-d3e6f10bfa0c) (Loom)
   - [If-Else Statements](https://www.loom.com/share/5ab6e9a6665348049aa5ac21e3234430?sid=cb5df5cf-646c-4928-86a2-27f566ede3d1) (Loom)
+
+- **Logical Operators**
+  - [Logical Operators - AND & OR](https://www.loom.com/share/196acd63889a45039ba3901dea72d2a6?sid=12c48484-6311-4765-bd7e-b0951d72b705) (Loom)
+  - [AND and OR in Conditional Statements](https://www.youtube.com/watch?v=zD4Q3UEgbAY) (YouTube)
   
 - **Indentation and Brackets**
   - [Importance of Indentation and Brackets](https://www.youtube.com/watch?v=POcROZTaaTg) (YouTube)
