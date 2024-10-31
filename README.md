@@ -50,8 +50,8 @@ Each `chapter` folder has a README with important links and prerequisites, while
 
 ## 📝 Chapters
 
-- [ ] [Basic Coding](./01_Basic-Coding/)
-- [ ] [Looping]()
+- [x] [Basic Coding](./01_Basic-Coding/)
+- [ ] [Looping](./02_Looping)
 - [ ] [Arrays]()
 - [ ] [DSA Exam 1]()
 - [ ] [Bit Manipulation And Complexity]()
